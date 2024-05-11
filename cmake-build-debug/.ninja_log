@@ -1,0 +1,6 @@
+# ninja log v5
+62	1254	7371344242958660	CMakeFiles/lab14.dir/libs/data_structures/vector/vector.c.obj	d719e850a537492c
+23	1257	7371344242958660	CMakeFiles/lab14.dir/main.c.obj	7fd3e40aa82e0944
+70	1257	7371344242978603	libs/data_structures/CMakeFiles/data_structures.dir/vector/vector.c.obj	f1752442f038cb4c
+1257	1429	7371344244712958	libs/data_structures/libdata_structures.a	746ccdcbc8ad47e2
+1429	1772	7371344248124228	lab14.exe	acec3a949a87e699
